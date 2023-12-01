@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Benbouzid.</h1>
 <h3 align="center">A passionate competitive programmer from Algeria.</h3>
 
-- 🌱 I’m currently learning: **Cyber Security.**
+- 🌐 I’m currently learning: **Cyber Security.**
 
 - 📫 How to reach me: **ma_benbouzid@esi.dz**
 
