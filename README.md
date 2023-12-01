@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Benbouzid.</h1>
 <h3 align="center">A passionate competitive programmer from Algeria.</h3>
 
-- 🌱 I’m currently learning **Cyber Security.**
+- 🌱 I’m currently learning: **Cyber Security.**
 
-- 📫 How to reach me **ma_benbouzid@esi.dz**
+- 📫 How to reach me: **ma_benbouzid@esi.dz**
 
-- ⚡ Fun fact **Every year, we unknowingly pass by the anniversary of our future death xD**
+- ⚡ Fun fact: **Every year, we unknowingly pass by the anniversary of our future death xD**
 
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
